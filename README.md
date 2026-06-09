@@ -1,49 +1,15 @@
-# Alpha-GMX: Intelligent Drug Design Engine
+## 📊 Génération de Rapports d'Analyse (*In Silico* Report Engine)
 
-<div align="center">
-  <h3>Plateforme de Conception Médicamenteuse | منصة التصميم الدوائي الذكي</h3>
+Le système **Alpha-GMX** intègre un processeur analytique permettant de générer des rapports complets pour évaluer la viabilité des structures moléculaires avant la phase de laboratoire :
 
-  <!-- Badges section with updated email link -->
-  <a href="mailto:infovusial@gmail.com">
-    <img src="https://img.shields.io/badge/M--CONTACT-infovusial%40gmail.com-db4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Email">
-  </a>
-  <img src="https://img.shields.io/badge/BOINTECH-SYSTEM-0077b5?style=for-the-badge" alt="Bointech">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-4caf50?style=for-the-badge" alt="Status Active">
-</div>
+### 1. ⚡ Éfficacité Biomoléculaire (Efficiency Score)
+* **Affinité de Liaison (Docking Affinity) :** Calcul automatisé de la force d'interaction entre la protéine conçue et son récepteur cible via des algorithmes d'énergie libre.
+* **Score de Convergence :** Évaluation de la stabilité cinétique pour maximiser l'effet thérapeutique attendu.
 
----
+### 2. 🛡️ Profil de Sécurité Numérique (Safety Protocol)
+* **Biocompatibilité *In Silico* :** Criblage prédictif pour s'assurer que la structure ne déclenche pas de réactions hors-cible (Off-target tracking) indésirables.
+* **Intégrité Structurale :** Simulation de la résistance de la protéine face aux barrières thermiques et chimiques du système immunitaire virtuel.
 
-## 🌐 English
-
-**Alpha-GMX** is a proprietary high-performance simulation platform for molecular engineering. It streamlines protein structure stabilization, drastically reducing research timelines.
-
-### Key Features
-* **High-Speed Genetic Processing:** Optimized transcription and binary encoding of custom genomic data sequences.
-* **Molecular Dynamics Simulation:** Advanced digital-twin rendering using GROMACS 2024.1 core engine with GPU-accelerated computing.
-* **Secure Deployment Protocol:** Built-in dynamic obfuscation and layer blocking via the proprietary `gmx.bat` security system.
-
----
-
-## 🇫🇷 Français
-
-**Alpha-GMX** est une plateforme de simulation haute performance pour l'ingénierie moléculaire. Elle optimise la stabilisation de la structure des protéines, réduisant considérablement les délais de recherche scientifique.
-
-### Caractéristiques Principales
-* **Processeur Génétique Haute Vitesse :** Transcription optimisée et encodage binaire des séquences d'ADN/ARNm.
-* **Simulation de Dynamique Moléculaire :** Moteur d'exécution basé sur GROMACS 2024.1 avec accélération matérielle par GPU.
-* **Protocole de Sécurisation Avancé :** Encodage dynamique du code source HTML et blocage des outils d'inspection via le script `gmx.bat`.
-
----
-
-## ⚙️ Architecture & Security Deployment (`gmx.bat`)
-
-Pour protéger le code source de vos interfaces de simulation contre l'inspection (F12, Clic-droit), utilisez le processeur de sécurisation DN-35GMX inclus :
-
-1. Exécutez le script local `gmx.bat`.
-2. Glissez-déposez votre fichier d'interface (ex: `Alpha-GMX.html.html`).
-3. Le fichier protégé et chiffré en Base64 sera généré automatiquement sous le nom `protected_...html`.
-
----
-<div align="center">
-  <sub>Propriété exclusive de Jaki-Netwood / BOINTECH. Tous droits réservés © 2026.</sub>
-</div>
+### 3. ⏳ Temps de Rétention dans l'Organisme (Pharmacokinetics & Half-life)
+* **Estimation de la Demi-vie (Bio-retention Time) :** Modélisation de la persistance de la molécule dans l'organisme. Le système calcule combien de temps la protéine reste active dans le corps avant d'être naturellement métabolisée.
+* **Clairance Simulée :** Analyse du taux de dégradation moléculaire pour optimiser les dosages théoriques requis.
