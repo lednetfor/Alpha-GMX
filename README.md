@@ -11,7 +11,17 @@
 </a>
 
 </div>
+---
 
+### يلا ملقيتيش السطر، ها هو الكود ديال البوتونات كامل مقاد ومعدل (تقدر تبدلو ف الفيشي الأصلي):
+
+```html
+<!-- قسم أزرار الحالة والاتصال -->
+<div style="text-align: center; margin: 20px 0;">
+    <a href="mailto:infovusial@gmail.com" style="background: #db4437; color: white; padding: 8px 15px; text-decoration: none; font-weight: bold; margin-right: 5px; border-radius: 3px;">M CONTACT</a>
+    <span style="background: #0077b5; color: white; padding: 8px 15px; font-weight: bold; margin-right: 5px; border-radius: 3px;">BOINTECH</span>
+    <span style="background: #4caf50; color: white; padding: 8px 15px; font-weight: bold; border-radius: 3px;">STATUS: ACTIVE</span>
+</div>
 ---
 
 ## 🇬🇧 English
