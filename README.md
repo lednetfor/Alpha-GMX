@@ -3,8 +3,9 @@
 # Alpha-GMX: Intelligent Drug Design Engine
 ### 🧬 منصة التصميم الدوائي الذكي | Plateforme de Conception Médicale Intelligente
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Contact-Bointech-blue?style=for-the-badge&logo=gmail" alt="Contact"/>
+<a href="mailto:infosvuail@gmail.com.">
+  <img src="https://img.gmx.png/badge/Contact-Bointech-blue?style=for-the-badge&logo=gmail" alt="Contact"/>
+
 </a>
 <a href="https://github.com/your-repo">
   <img src="https://img.shields.io/badge/Status-Absolute_Sync-brightgreen?style=for-the-badge" alt="Status"/>
