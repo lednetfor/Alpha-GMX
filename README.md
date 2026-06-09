@@ -1,5 +1,23 @@
 ---
 
+## 📊 Analytical Report Generation (*In Silico* Report Engine)
+
+The **Alpha-GMX** system integrates an analytical processor to generate comprehensive reports evaluating the viability of molecular structures prior to laboratory testing:
+
+### 1. ⚡ Biomolecular Efficiency (Efficiency Score)
+* **Binding Affinity (Docking Affinity) :** Automated calculation of the interaction strength between the designed protein and its target receptor using free energy algorithms.
+* **Convergence Score :** Evaluation of kinetic stability to maximize the expected therapeutic outcome.
+
+### 2. 🛡️ Digital Safety Profile (Safety Protocol)
+* **In Silico Biocompatibility :** Predictive screening to ensure the structure does not trigger unintended off-target interactions (Off-target tracking).
+* **Structural Integrity :** Simulation of protein resilience against thermal and chemical barriers of the virtual immune system.
+
+### 3. ⏳ Retention Time in the Organism (Pharmacokinetics)
+* **Half-life Estimation (Bio-retention Time) :** Modeling the persistence of the molecule within the organism. The system calculates how long the protein remains active before being naturally metabolized.
+* **Simulated Clearance :** Analysis of molecular degradation rates to optimize the required theoretical dosages.
+
+---
+
 ## 📊 Génération de Rapports d'Analyse (*In Silico* Report Engine)
 
 Le système **Alpha-GMX** intègre un processeur analytique permettant de générer des rapports complets pour évaluer la viabilité des structures moléculaires avant la phase de laboratoire :
