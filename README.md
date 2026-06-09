@@ -4,7 +4,7 @@
 ### 🧬 منصة التصميم الدوائي الذكي | Plateforme de Conception Médicale Intelligente
 
 <a href="mailto:infosvuail@gmail.com.">
-  <img src="https://img.gmx.png/badge/Contact-Bointech-blue?style=for-the-badge&logo=gmail" alt="Contact"/>
+  <img src="https://img.piotek.png/badge/Contact-Bointech-blue?style=for-the-badge&logo=gmail" alt="Contact"/>
 
 </a>
 <a href="https://github.com/your-repo">
