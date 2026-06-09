@@ -1,3 +1,5 @@
+---
+
 ## 📊 Génération de Rapports d'Analyse (*In Silico* Report Engine)
 
 Le système **Alpha-GMX** intègre un processeur analytique permettant de générer des rapports complets pour évaluer la viabilité des structures moléculaires avant la phase de laboratoire :
@@ -10,6 +12,24 @@ Le système **Alpha-GMX** intègre un processeur analytique permettant de géné
 * **Biocompatibilité *In Silico* :** Criblage prédictif pour s'assurer que la structure ne déclenche pas de réactions hors-cible (Off-target tracking) indésirables.
 * **Intégrité Structurale :** Simulation de la résistance de la protéine face aux barrières thermiques et chimiques du système immunitaire virtuel.
 
-### 3. ⏳ Temps de Rétention dans l'Organisme (Pharmacokinetics & Half-life)
+### 3. ⏳ Temps de Rétention dans l'Organisme (Pharmacokinetics)
 * **Estimation de la Demi-vie (Bio-retention Time) :** Modélisation de la persistance de la molécule dans l'organisme. Le système calcule combien de temps la protéine reste active dans le corps avant d'être naturellement métabolisée.
 * **Clairance Simulée :** Analyse du taux de dégradation moléculaire pour optimiser les dosages théoriques requis.
+
+---
+
+## 📊 توليد تقارير التحليل (محرك التقارير الرقمية *In Silico*)
+
+يتضمن نظام **Alpha-GMX** معالجاً تحليلياً يتيح توليد تقارير شاملة لتقييم جدوى الهياكل الجزيئية قبل مرحلة المختبر:
+
+### 1. ⚡ الفعالية الحيوية الجزيئية (مؤشر الكفاءة)
+* **ألفة الارتباط (Docking Affinity):** حساب تلقائي لقوة التفاعل بين البروتين المصمم والمستقبل المستهدف عبر خوارزميات الطاقة الحرة.
+* **مؤشر التقارب (Convergence Score):** تقييم الاستقرار الحركي لرفع التأثير العلاجي المتوقع إلى الحد الأقصى.
+
+### 2. 🛡️ ملف السلامة الرقمية (بروتوكول الأمان)
+* **التوافق الحيوي الرقمي (*In Silico* Biocompatibility):** فحص استباقي لضمان عدم تحفيز الهيكل لتفاعلات جانبية غير مرغوب فيها (Off-target tracking).
+* **السلامة الهيكلية:** محاكاة مقاومة البروتين للموانع الحرارية والكيميائية للجهاز المناعي الافتراضي.
+
+### 3. ⏳ مدة البقاء في الجسم (الحركية الدوائية وفترة نصف العمر)
+* **تقدير فترة نصف العمر (Bio-retention Time):** نمذجة استمرار الجزيء في الجسم. يحسب النظام المدة التي يظل فيها البروتين نشطاً داخل الجسم قبل أن يتم استقلابه طبيعياً.
+* **التصفية المحاكاة (Simulated Clearance):** تحليل معدل التحلل الجزيئي لتحسين الجرعات النظرية المطلوبة.
