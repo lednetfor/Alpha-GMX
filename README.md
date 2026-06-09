@@ -1,22 +1,34 @@
-Alpha-GMX: Intelligent Drug Design Engine
-Alpha-GMX is a proprietary high-performance simulation platform designed for precision molecular engineering. By leveraging advanced topological modeling and predictive biochemical algorithms, Alpha-GMX streamlines the discovery of stable protein structures, drastically reducing research timelines in pharmaceutical development.
+<div align="center">
 
-Core Capabilities
-Predictive Simulation: High-accuracy protein stability analysis with optimized geometric structural integrity.
+# Alpha-GMX: Intelligent Drug Design Engine
+### 🧬 منصة التصميم الدوائي الذكي | Plateforme de Conception Médicamenteuse Intelligente
 
-In-Silico Validation: Rapid identification of molecular behavior in complex environments.
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Contact-Bointech-blue?style=for-the-badge&logo=gmail" alt="Contact"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
+</a>
 
-Targeted Optimization: Designed for seamless integration into advanced drug discovery workflows.
+</div>
 
-Strategic Impact
-Alpha-GMX transforms complex protein design into a scalable digital asset, empowering biotech innovators to bypass years of traditional trial-and-error. The platform bridges the gap between digital simulation and laboratory validation.
+---
 
-Intellectual Property
-This project is the proprietary technology of Bointech. All algorithms, simulation methodologies, and specific protein design architectures are protected under international intellectual property standards. Unauthorized reproduction or commercial use is strictly prohibited.
+## 🇬🇧 English
+**Alpha-GMX** is a proprietary high-performance simulation platform for molecular engineering. It streamlines protein structure stabilization, drastically reducing research timelines.
 
-Partnerships & Licensing
-For inquiries regarding technology licensing, collaborative research, or investment opportunities, please contact our business development team:
+## 🇫🇷 Français
+**Alpha-GMX** est une plateforme de simulation haute performance pour l'ingénierie moléculaire. Elle optimise la stabilisation des structures protéiques, réduisant ainsi considérablement les délais de recherche.
 
-📧 [Insert Your Business Email Here]
+## 🇦🇷 العربية
+**Alpha-GMX** هي منصة محاكاة عالية الأداء متخصصة في الهندسة الجزيئية. تعمل المنصة على تعزيز استقرار هياكل البروتينات، مما يساهم في تقليص فترات البحث العلمي بشكل كبير.
 
-© 2026 Bointech. All Rights Reserved.
+---
+
+## 🚀 Key Features | Caractéristiques | المميزات
+* **In-Silico Validation:** Precision simulation for drug discovery.
+* **Validation In-Silico:** Simulation de précision pour la découverte de médicaments.
+* **المحاكاة الرقمية:** دقة متناهية في تصميم الأدوية.
+
+---
+*© 2026 Bointech. All Rights Reserved.*
